@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\10\10\bin\Debug\10.exe.config
+C:\Users\Admin\source\repos\10\10\bin\Debug\10.exe
+C:\Users\Admin\source\repos\10\10\bin\Debug\10.pdb
+C:\Users\Admin\source\repos\10\10\obj\Debug\10.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\10\10\obj\Debug\10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\10\10\obj\Debug\10.exe
+C:\Users\Admin\source\repos\10\10\obj\Debug\10.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\12\12\bin\Debug\12.exe.config
+C:\Users\Admin\source\repos\12\12\bin\Debug\12.exe
+C:\Users\Admin\source\repos\12\12\bin\Debug\12.pdb
+C:\Users\Admin\source\repos\12\12\obj\Debug\12.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\12\12\obj\Debug\12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\12\12\obj\Debug\12.exe
+C:\Users\Admin\source\repos\12\12\obj\Debug\12.pdb
