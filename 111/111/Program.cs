@@ -12,7 +12,7 @@ namespace _111
         const int size = 10;
         static char[,] matr = new char[size, size];
         static bool[,] matrKey = new bool[size, size];
-        static string str = "Comparisons between countries also need to be treated cautiosly. Individualistic western country. A.";
+        static string str = "Шифровка текста с помощью решетки заключается в следующем. Сегодня хороший день, как и каждый день. ";
         static char[] strMas = str.ToCharArray();
         static void WriteMatr(bool[,] matr)
         {
@@ -129,7 +129,7 @@ namespace _111
 
             Console.WriteLine("Расшифрованное сообщение:");
             Decrypt();
-
+            Console.ReadLine();
         }
     }
 }
